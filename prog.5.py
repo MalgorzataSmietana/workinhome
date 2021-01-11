@@ -1,0 +1,1 @@
+echo " to nowa galaz"
